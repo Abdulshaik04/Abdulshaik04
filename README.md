@@ -4,7 +4,7 @@ I'm a passionate software engineer with a love for building innovative solutions
 
 ## About Me
 
-- 💻 I'm currently working as a Data Aaalyst at Mount Point Teachnologies pvt ltd.
+- 💻 I'm currently working as a Data Analyst at Mount Point Teachnologies pvt ltd.
 - 🌱 I'm constantly learning and experimenting with new technologies.
 - 📚 I'm interested in topics such as Business Analyst and Machine Learning.
 - 🎓 I hold a Bachelor's degree in Mechanical Engineering from S.K University.
